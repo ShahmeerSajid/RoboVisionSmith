@@ -15,3 +15,8 @@ The Report Includes:
 - 🧪 Performance analysis of individual classifiers on 700+ real-world images captured across McGill    campus and surrounding vicinity environments
 - 📷 Visual outputs and interpretability aids — including edge maps, scene graphs, classification       charts, and performance gauges
 - 🧠 Numerical values for 230+ global features, extracted from raw, live-captured robotic vision data   ready for analysis or replication
+
+
+## 🔮 Future Work
+This project lays the groundwork for a lightweight robotic vision system capable of classifying environments using interpretable logic. My primary focus was on developing the software pipeline — from feature engineering and dataset generation to classifier evaluation.
+🧠 The next stage of this research will be carried forward by future students and collaborators at the Robotics Vision Lab, who will focus on deploying the software onto the two physical robot platforms.
