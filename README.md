@@ -15,3 +15,7 @@ The Report Includes:
 - 🧪 Performance analysis of individual classifiers on 700+ real-world images captured across McGill    campus and surrounding vicinity environments
 - 📷 Visual outputs and interpretability aids — including edge maps, scene graphs, classification charts, and performance gauges
 - 🧠 Numerical values for 230+ global features, extracted from raw, live-captured robotic vision data ready for analysis or replication
+
+
+## 🔮 Future Work
+This research project achieved approximately 68% classification accuracy on live-captured environmental data using the engineered classification pipeline. Moving forward, the project will be extended by future students and members of McGill AI and Robotics Lab, who will build upon the robotic vision software foundation established in this work.
