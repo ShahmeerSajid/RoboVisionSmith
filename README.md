@@ -1,5 +1,5 @@
 # 🤖⚙️ RoboVisionSmith 🚀
-Robotics Vision Research project developed under Prof. Joseph Vybihal at McGill Artificial Intelligence and Robotics Research Laboratory. Focused on non-neural robotic vision for classifying environments on Research Lab’s NavigBot-Compact (IMX477 12MP) and TerrainScout-Micro (OV9281 global shutter) platforms, optimized for resource-constrained embedded systems.
+Robotics Vision Research project developed under Prof. Joseph Vybihal at McGill Artificial Intelligence, Vision and Robotics Research Lab. This work is focused on non-neural robotic vision for classifying environments on Research Lab’s NavigBot-Compact (IMX477 12MP) and TerrainScout-Micro (OV9281 global shutter) platforms, optimized for resource-constrained embedded systems.
 
 
 ## 📄 Full Lab Research Report
